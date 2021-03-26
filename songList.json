@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Party in the USA!",
+        "artist": "Miley Cyrus",
+        "release": 2009,
+        "genre": ["Pop"]
+    },
+    {
+        "title": "Our Song",
+        "artist": "Taylor Swift",
+        "release": 2006,
+        "genre": ["Country","Pop"]
+    },
+    {
+        "title": "Before He Cheats",
+        "artist": "Carrie Underwood",
+        "release": 2005,
+        "genre": ["Country","Pop"]
+    },
+    {
+        "title": "Crank That",
+        "artist": "Soulja Boy",
+        "release": 2007,
+        "genre": ["Hip Hop"]
+    },
+    {
+            "title": "Gold Digger",
+            "artist": "Kanye West",
+            "release": 2007,
+            "genre": ["Hip Hop"]
+    },
+    {
+            "title": "Formation",
+            "artist": "Beyonce",
+            "release": 2016,
+            "genre": ["Pop"]
+    },
+    {
+            "title": "The Hills",
+            "artist": "The Weeknd",
+            "release": 2015,
+            "genre": ["R and B"]
+    },
+    {
+        "title": "99 Problems",
+        "artist": "Jay-Z",
+        "release": 2003,
+        "genre": ["Hip Hop"]
+    },
+    {
+        "title": "Super Bass",
+        "artist": "Nicki Minaj",
+        "release": 2010,
+        "genre": ["Hip Hop"]
+    },
+    {
+        "title": "Umbrella",
+        "artist": "Rihanna",
+        "release": 2007,
+        "genre": ["Pop"]
+    }
+]
