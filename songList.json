@@ -24,22 +24,22 @@
         "genre": ["Hip Hop"]
     },
     {
-            "title": "Gold Digger",
-            "artist": "Kanye West",
-            "release": 2007,
-            "genre": ["Hip Hop"]
+        "title": "Gold Digger",
+        "artist": "Kanye West",
+        "release": 2007,
+        "genre": ["Hip Hop"]
     },
     {
-            "title": "Formation",
-            "artist": "Beyonce",
-            "release": 2016,
-            "genre": ["Pop"]
+        "title": "Formation",
+        "artist": "Beyonce",
+        "release": 2016,
+        "genre": ["Pop", "R and B"]
     },
     {
-            "title": "The Hills",
-            "artist": "The Weeknd",
-            "release": 2015,
-            "genre": ["R and B"]
+        "title": "The Hills",
+        "artist": "The Weeknd",
+        "release": 2015,
+        "genre": ["R and B", "Pop"]
     },
     {
         "title": "99 Problems",
@@ -51,7 +51,7 @@
         "title": "Super Bass",
         "artist": "Nicki Minaj",
         "release": 2010,
-        "genre": ["Hip Hop"]
+        "genre": ["Hip Hop", "Pop"]
     },
     {
         "title": "Umbrella",
